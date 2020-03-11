@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5e4ef7b315a9c347b8810e66"},"product_id":"xxxxxxxxxxxxxxxxxxxxxx","product_description":"BEACON YENI MODELLERLE SIZLERLE","product_name":"sbeACON_nEW","product_price":{"$numberDouble":"50.99"}}
+{"_id":{"$oid":"5e4ef8c0e839b347b802c616"},"product_id":"xxxxxxxxxxxxxxxxxxxxxx","product_name":"sbeACON_nEW","product_description":"En yeni Bacon ürün et pastırma","product_price":{"$numberDouble":"50.99"}}
