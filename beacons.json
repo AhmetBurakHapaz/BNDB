@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e4d8999ca02e33a24e4e60f"},"db":"bnproject","infos":{"beacon_name":"asdasd","uuid":"sadassasd","id":{"$numberInt":"12"},"major":{"$numberInt":"31"},"minor":{"$numberInt":"31"},"last_seen":{"$date":{"$numberLong":"1001883600000"}},"beacon_type":{"$numberInt":"0"}},"user":{"username":"","user_id":{"$oid":"5e5180347854a42f3841ecb6"},"user_mail":"","user_phone":""}}
