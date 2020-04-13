@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e89065293cf0d0b91c892eb"},"title":"BN YAYINDA","notification_type":{"$numberInt":"0"},"topic":"BN HERKESE YAYINDA","description":"BN UYGULAMASI HERKESE YAYINDA","importance_type":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8906f560a9920b911fb4c4"},"title":"BN YAYINDA","notification_type":{"$numberInt":"1"},"group_types":[{"$numberInt":"1"},{"$numberInt":"5"}],"topic":"BN GRUPLARA YAYINDA","description":"BN UYGULAMASI GRUPLARA YAYINDA","importance_type":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8906f760a9920b911fb4c5"},"title":"BN YAYINDA","user_id":{"$oid":"5e4d83a99510103a245aec83"},"notification_type":{"$numberInt":"0"},"topic":"BN KİŞİYE YAYINDA","description":"BN UYGULAMASI KİŞİYE YAYINDA","importance_type":{"$numberInt":"0"}}
