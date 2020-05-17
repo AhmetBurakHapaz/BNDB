@@ -1,2 +1,67 @@
-{"_id":{"$oid":"5e4ef6be15a9c347b8810e64"},"user_infos":{"user_id":{"$oid":"5e4d83a99510103a245aec83"},"user_phone":"","user_name":"","user_mail":""},"beacon_id":{"$oid":"5e4d8999ca02e33a24e4e60f"},"lost_status":{"$binary":{"base64":"MA==","subType":"00"}},"lost_date":{"$date":{"$numberLong":"915138000000"}},"lost_lat":{"$numberDouble":"41.40338"},"lost_long":{"$numberDouble":"2.17403"}}
-{"_id":{"$oid":"5e57c8951989ed0ad4d6030a"},"user_infos":{"user_id":{"$oid":"5e4d83a99510103a245aec83"},"user_phone":"","user_name":"","user_mail":""},"beacon_id":{"$oid":"5e4d8999ca02e33a24e4e60f"},"lost_status":{"$binary":{"base64":"MA==","subType":"00"}},"lost_date":{"$date":{"$numberLong":"915138000000"}},"lost_lat":{"$numberDouble":"45.40338"},"lost_long":{"$numberDouble":"12.17403"}}
+[{
+  "_id": {
+    "$oid": "5e4ef6be15a9c347b8810e64"
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_phone": "",
+    "user_mail": ""
+  },
+  "beacon_infos": {
+    "beacon_id": {
+      "$oid": "5e4d8999ca02e33a24e4e60f"
+    },
+    "beacon_name": "asdasd",
+    "uuid": "sadassasd",
+    "variance": 30,
+    "major": 31,
+    "image": "",
+    "minor": 31,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0
+  },
+  "lost_status": false,
+  "lost_date": {
+    "$date": "1998-12-31T21:00:00Z"
+  },
+  "lost_lat": 41.40338,
+  "lost_long": 2.17403,
+  "lost_description": "KAYBOLDU"
+},{
+  "_id": {
+    "$oid": "5e57c8951989ed0ad4d6030a"
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_phone": "",
+    "user_mail": ""
+  },
+  "beacon_infos": {
+    "beacon_id": {
+      "$oid": "5e8902db60a9920b911fb4c2"
+    },
+    "beacon_name": "asdasd",
+    "uuid": "sadassasdfasfasfdw",
+    "variance": 30,
+    "major": 31,
+    "image": "",
+    "minor": 31,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0
+  },
+  "lost_status": false,
+  "lost_date": {
+    "$date": "1998-12-31T21:00:00Z"
+  },
+  "lost_lat": 45.40338,
+  "lost_long": 12.17403,
+  "lost_description": "KAYBOLDU"
+}]

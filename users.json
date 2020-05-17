@@ -1,2 +1,166 @@
-{"_id":{"$oid":"5e4d83a99510103a245aec83"},"_created":{"$date":{"$numberLong":"-62135596800000"}},"_modified":{"$date":{"$numberLong":"1585855337365"}},"contact_info":{"user_real_name":"deneme","user_surname":"deneme","user_address":"xxx","user_phone":"05335555"},"user_info":{"user_password":"8f10d078b2799206cfe914b32cc6a5e9","user_mail":"den55@gmail.com","user_token":"REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc","role_lvl":{"$numberInt":"5"}}}
-{"_id":{"$oid":"5e4d840d9510103a245aec85"},"contact_info":{"user_real_name":"xxxxxx","user_surname":"xx","user_address:":"xxx xxxxxxx xxxxxxxx xxxxxxxxx 54654","user_phone":"053333333323"},"user_info":{"user_password":"8f10d078b2799206cfe914b32cc6a5e9","user_mail":"aaaa@xxxx.com","user_token":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXX","role_lvl":{"$numberInt":"2"}}}
+[{
+  "_id": {
+    "$oid": "5e4d83a99510103a245aec83"
+  },
+  "_created": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "_modified": {
+    "$date": "2020-04-02T19:22:17.365Z"
+  },
+  "contact_infos": {
+    "user_real_name": "Uğurcan",
+    "user_surname": "Çakar",
+    "user_address": "xxx",
+    "user_phone": "05335555"
+  },
+  "user_infos": {
+    "user_password": "8f10d078b2799206cfe914b32cc6a5e9",
+    "user_mail": "den57@gmail.com",
+    "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "img": "",
+    "role_lvl": 5
+  },
+  "push_infos": {
+    "push_id": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e4d840d9510103a245aec85"
+  },
+  "contact_infos": {
+    "user_real_name": "Sivaslı Yiğido",
+    "user_surname": "xx",
+    "user_phone": "053333333323"
+  },
+  "user_infos": {
+    "user_password": "8f10d078b2799206cfe914b32cc6a5e9",
+    "user_mail": "den58@gmail.com",
+    "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "img": "",
+    "role_lvl": 2
+  },
+  "push_infos": {
+    "push_id": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e9b01f62c5bde2470d15c45"
+  },
+  "_created": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "_modified": {
+    "$date": "2020-04-02T19:22:17.365Z"
+  },
+  "contact_infos": {
+    "user_real_name": "Muhammed Burak",
+    "user_surname": "Sıvık",
+    "user_address": "xxx",
+    "user_phone": "05335555"
+  },
+  "user_infos": {
+    "user_password": "8f10d078b2799206cfe914b32cc6a5e9",
+    "user_mail": "den56@gmail.com",
+    "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "img": "",
+    "role_lvl": 5
+  },
+  "push_infos": {
+    "push_id": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e9b01fa2c5bde2470d15c46"
+  },
+  "_created": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "_modified": {
+    "$date": "2020-04-02T19:22:17.365Z"
+  },
+  "contact_infos": {
+    "user_real_name": "Ahmet Burak",
+    "user_surname": "Hapaz",
+    "user_address": "xxx",
+    "user_phone": "05335555"
+  },
+  "user_infos": {
+    "user_password": "8f10d078b2799206cfe914b32cc6a5e9",
+    "user_mail": "den55@gmail.com",
+    "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "img": "",
+    "role_lvl": 5
+  },
+  "push_infos": {
+    "push_id": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e9b01fd2c5bde2470d15c47"
+  },
+  "_created": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "_modified": {
+    "$date": "2020-04-02T19:22:17.365Z"
+  },
+  "contact_infos": {
+    "user_real_name": "Utku",
+    "user_surname": "Erdemir",
+    "user_address": "xxx",
+    "user_phone": "05335555"
+  },
+  "user_infos": {
+    "user_password": "8f10d078b2799206cfe914b32cc6a5e9",
+    "user_mail": "den54@gmail.com",
+    "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "img": "",
+    "role_lvl": 4
+  },
+  "push_infos": {
+    "push_id": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e9b01ff2c5bde2470d15c48"
+  },
+  "_created": {
+    "$date": {
+      "$numberLong": "-62135596800000"
+    }
+  },
+  "_modified": {
+    "$date": "2020-04-02T19:22:17.365Z"
+  },
+  "contact_infos": {
+    "user_real_name": "Abdurrahmann",
+    "user_surname": "Aydın",
+    "user_address": "xxx",
+    "user_phone": "05335555"
+  },
+  "user_infos": {
+    "user_password": "8f10d078b2799206cfe914b32cc6a5e9",
+    "user_mail": "den53@gmail.com",
+    "user_web_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "user_mobile_token": "REy1r2xvz3iO01YmQfIg4DuTcVPDuGCc",
+    "img": "",
+    "role_lvl": 3
+  },
+  "push_infos": {
+    "push_id": ""
+  }
+}]

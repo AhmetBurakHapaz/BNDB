@@ -1,3 +1,145 @@
-{"_id":{"$oid":"5e4d8999ca02e33a24e4e60f"},"infos":{"beacon_name":"asdasd","uuid":"sadassasd","variance":{"$numberInt":"30"},"id":{"$numberInt":"12"},"major":{"$numberInt":"31"},"image":"","minor":{"$numberInt":"31"},"last_seen":{"$date":{"$numberLong":"1583182544706"}},"beacon_type":{"$numberInt":"0"}},"user":{"username":"","user_id":{"$oid":"5e4d83a99510103a245aec83"},"user_mail":"","user_phone":""}}
-{"_id":{"$oid":"5e8902db60a9920b911fb4c2"},"infos":{"beacon_name":"asdasdasssdw","image":"","uuid":"sadassasd","variance":{"$numberInt":"30"},"id":{"$numberInt":"13"},"major":{"$numberInt":"31"},"minor":{"$numberInt":"31"},"last_seen":{"$date":{"$numberLong":"1583182544706"}},"beacon_type":{"$numberInt":"0"}},"user":{"username":"","user_id":{"$oid":"5e4d83a99510103a245aec83"},"user_mail":"","user_phone":""}}
-{"_id":{"$oid":"5e8902de60a9920b911fb4c3"},"infos":{"beacon_name":"asdasdweeweqwe","uuid":"sadassasd","image":"","id":{"$numberInt":"14"},"major":{"$numberInt":"35"},"variance":"","minor":{"$numberInt":"35"},"last_seen":{"$date":{"$numberLong":"1583182544706"}},"beacon_type":{"$numberInt":"0"}},"user":{"username":"","user_id":{"$oid":"5e4d83a99510103a245aec83"},"user_mail":"","user_phone":""}}
+[{
+  "_id": {
+    "$oid": "5e4d8999ca02e33a24e4e60f"
+  },
+  "beacon_infos": {
+    "beacon_name": "Karabaş",
+    "uuid": "fda50693-a4e2-4fb1-afcf-c6eb07647825",
+    "variance": 30,
+    "major": 31,
+    "image": "",
+    "minor": 31,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0,
+    "lost_status": false
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_mail": "",
+    "user_phone": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e8902db60a9920b911fb4c2"
+  },
+  "beacon_infos": {
+    "beacon_name": "asdasdasssdw",
+    "image": "",
+    "uuid": "sadassasdfasfasfdw",
+    "variance": 30,
+    "major": 31,
+    "minor": 31,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0,
+    "lost_status": false
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_mail": "",
+    "user_phone": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e8902de60a9920b911fb4c3"
+  },
+  "beacon_infos": {
+    "beacon_name": "asdasdweeweqwe",
+    "uuid": "sadassasd",
+    "image": "",
+    "major": 35,
+    "variance": "",
+    "minor": 35,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0,
+    "lost_status": false
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_mail": "",
+    "user_phone": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e9611878780e66158a133ee"
+  },
+  "beacon_infos": {
+    "beacon_name": "asdasd",
+    "uuid": "sadassasd",
+    "variance": 30,
+    "major": 31,
+    "image": "",
+    "minor": 31,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0,
+    "lost_status": false
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_mail": "",
+    "user_phone": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e9611a18780e66158a133ef"
+  },
+  "beacon_infos": {
+    "beacon_name": "asdasd",
+    "uuid": "sadassasd",
+    "variance": 30,
+    "major": 31,
+    "image": "",
+    "minor": 31,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0,
+    "lost_status": false
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_mail": "",
+    "user_phone": ""
+  }
+},{
+  "_id": {
+    "$oid": "5e9611a48780e66158a133f0"
+  },
+  "beacon_infos": {
+    "beacon_name": "asdasd",
+    "uuid": "sadassasd",
+    "variance": 30,
+    "major": 31,
+    "image": "",
+    "minor": 31,
+    "last_seen": {
+      "$date": "2020-03-02T20:55:44.706Z"
+    },
+    "beacon_type": 0,
+    "lost_status": false
+  },
+  "user_infos": {
+    "user_id": {
+      "$oid": "5e4d83a99510103a245aec83"
+    },
+    "user_mail": "",
+    "user_phone": ""
+  }
+}]
